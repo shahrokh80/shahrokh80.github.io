@@ -1,0 +1,58 @@
+body {
+	background-color:#aaaaff;
+}
+
+img 
+{
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+	width:30%;
+	display:block;
+}
+
+table 
+{
+	text-align:center;
+	margin:auto;
+	border-collapse:collapse;
+}
+td
+ {
+	text-align:center;
+	padding:20px;
+	background-color:#ddaaff;
+}
+th 
+{
+	text-align:center;
+	padding:20px;
+	background-color:#aa11ff;
+	color:white;
+}
+#universitytitle 
+{
+	color:white;
+	font-family:tahoma;
+	font-size:36px;
+	text-align:center;
+}
+#fieldtitle 
+{
+	color:white;
+	font-family:tahoma;
+	font-size:26px;
+	text-align:center;
+	border-color:yellow;
+	border-style:dashed;
+	width:300px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#link  
+{
+	font-family:tahoma;
+	font-size:26px;
+	text-align:center;
+}
